@@ -1,0 +1,3 @@
+task1: Programul citeste numarul precizat, iar apoi printr-o simpla shiftare a bitilor numarului 1 vedem daca avem sau nu biti de 1 in nr citit. Urmeaza citirea si construirea semnelor in acelasi mod, iar mai apoi aflarea nr Dim.
+
+task2: Programul furnizeaza aceleasi date ca task1 fara a le afisa, dupa care citeste atatea nr cat ne da formula, retinand acest rezultat in variabila Form. Mentionez si vactorul care retine semnele. Voi considera bitii de care am nevoie in functie de Dim, afland astfel numerele de care am nevoie si efectuez operatiile, afisand la final rezultatul. 
